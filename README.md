@@ -1,0 +1,1 @@
+I created this repository to store and manage my personal runtime configuration files. It will allow me to easily set up and synchronize my preferred terminal and tool settings across multiple computers or servers.
